@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<root>
+		<clientversion version="1.3.22.331.1">
+			<type cpu="armeabi-v7a">
+				<info length="1378241" libagora-rtc-sdk-jni.bytes="07A11CF29D5D1A9B1B743A4C6342AE83" libagoraSdkCWrapper.bytes="1A1947C16EA1DB30556E3A2708AF09F6" md5="8595E1DA9ABFF70B091446023FD00022"/>
+			</type>
+			<type cpu="x86">
+				<info length="1894502" libagora-rtc-sdk-jni.bytes="38A370382F5F7C82D8D3B76A8F0B4104" libagoraSdkCWrapper.bytes="9AD3556A997A010914C00F8DDD90EAF5" md5="E2583B50C2EEAC70B73FEAFCF715CD9A"/>
+			</type>
+		</clientversion>
+		<clientversion version="1.3.38.351.1">
+			<type cpu="armeabi-v7a">
+				<info length="1378241" libagora-rtc-sdk-jni.bytes="07A11CF29D5D1A9B1B743A4C6342AE83" libagoraSdkCWrapper.bytes="1A1947C16EA1DB30556E3A2708AF09F6" md5="8595E1DA9ABFF70B091446023FD00022"/>
+			</type>
+			<type cpu="x86">
+				<info length="1894502" libagora-rtc-sdk-jni.bytes="38A370382F5F7C82D8D3B76A8F0B4104" libagoraSdkCWrapper.bytes="9AD3556A997A010914C00F8DDD90EAF5" md5="E2583B50C2EEAC70B73FEAFCF715CD9A"/>
+			</type>
+		</clientversion>
+		<clientversion version="1.3.58.377.1">
+			<type cpu="arm64-v8a">
+				<info length="1872320" libagora-rtc-sdk-jni.bytes="1F7043CB0DCEDE955CB92E04C283C1AC" libagoraSdkCWrapper.bytes="374E1FA92F455306BBC96CA25FF092ED" md5="E56378BD22422CC16336C71DC7E86B83"/>
+			</type>
+			<type cpu="x86">
+				<info length="1894502" libagora-rtc-sdk-jni.bytes="38A370382F5F7C82D8D3B76A8F0B4104" libagoraSdkCWrapper.bytes="9AD3556A997A010914C00F8DDD90EAF5" md5="E2583B50C2EEAC70B73FEAFCF715CD9A"/>
+			</type>
+			<type cpu="armeabi-v7a">
+				<info length="1378241" libagora-rtc-sdk-jni.bytes="07A11CF29D5D1A9B1B743A4C6342AE83" libagoraSdkCWrapper.bytes="1A1947C16EA1DB30556E3A2708AF09F6" md5="8595E1DA9ABFF70B091446023FD00022"/>
+			</type>
+		</clientversion>
+		<clientversion version="1.3.84.409.1">
+			<type cpu="arm64-v8a">
+				<info length="2808834" libagora-rtc-sdk-jni.bytes="C4D8D1D31306369D941ABB065CC8343D" libagoraSdkCWrapper.bytes="E44E8EF7AAD94F4145301C914937EC65" md5="83AB6C88024F0F585728F602BC8D152E"/>
+			</type>
+			<type cpu="x86">
+				<info length="3005552" libagora-rtc-sdk-jni.bytes="C04B55519F12A5F3430A3744B4EFAC3F" libagoraSdkCWrapper.bytes="32CC84D263CAD6970617F4EC9294AC2B" md5="8EB7E7CF6B637632B0F5AA1051B053E6"/>
+			</type>
+			<type cpu="armeabi-v7a">
+				<info length="2231041" libagora-rtc-sdk-jni.bytes="AC23F08766EE96ADEA94A6891265CB03" libagoraSdkCWrapper.bytes="7641C18F6888FDA32D6D4764153CC0A8" md5="DA28A08000F2B10BE11B263FBD707500"/>
+			</type>
+		</clientversion>
+		<clientversion version="1.4.02.430.1">
+			<type cpu="arm64-v8a">
+				<info length="2808762" libagora-rtc-sdk-jni.bytes="167AC074442E5595F98C9EDB878052D8" libagoraSdkCWrapper.bytes="00CAD4C5848467806A0E20AE5536B05A" md5="9F8FFF171E6EBDAB8EADD730E68D9707"/>
+			</type>
+			<type cpu="x86">
+				<info length="3005577" libagora-rtc-sdk-jni.bytes="11DAD4842844AEAEB9CB047A90793CC2" libagoraSdkCWrapper.bytes="8954E3A66B374CC966D110F3746051FD" md5="360BF5D69956F73820B4F47A31813D49"/>
+			</type>
+			<type cpu="armeabi-v7a">
+				<info length="2231129" libagora-rtc-sdk-jni.bytes="95F7A7551229E014471D276405ADBA18" libagoraSdkCWrapper.bytes="DB0A2E725C7C754CA2685485970AAD92" md5="862931D1B48FD3AF6F79F07C6DFAA205"/>
+			</type>
+		</clientversion>
+	</root>
